@@ -24,7 +24,7 @@ const Dashboard = () => {
     e.preventDefault();
     let config = {
       method: "post",
-      url: "http://frontendreq.pondokprogrammer.com/api/logout",
+      url: "https://frontendreq.pondokprogrammer.com/api/logout",
       headers: {
         Authorization: `Bearer ${token}`,
       },

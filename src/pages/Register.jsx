@@ -65,7 +65,7 @@ const Register = () => {
 
     let config = {
       method: "post",
-      url: "http://frontendreq.pondokprogrammer.com/api/register",
+      url: "https://frontendreq.pondokprogrammer.com/api/register",
       headers: {},
       data: data,
     };

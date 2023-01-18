@@ -46,7 +46,7 @@ const Login = () => {
 
     let config = {
       method: "post",
-      url: "http://frontendreq.pondokprogrammer.com/api/login",
+      url: "https://frontendreq.pondokprogrammer.com/api/login",
       headers: {},
       data: data,
     };
